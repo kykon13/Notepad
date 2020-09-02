@@ -1,2 +1,1 @@
-# notepad
-Simple program made in C++
+launch notepad.exe
